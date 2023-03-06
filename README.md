@@ -16,7 +16,7 @@ Uma aplicação web responsiva desenvolvida em reactjs com material design lite 
 
 ![Git]<img align="center" alt="Matias-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
-![Github]<img align="center" alt="Matias-GH" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+![Github]<img align="center" alt="Matias-GH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
           
 ![HTML/CSS/Javascript]<img align="center" alt="Matias-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
           
