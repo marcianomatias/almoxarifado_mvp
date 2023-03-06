@@ -1,0 +1,13 @@
+### Criando modelos
+
+=> Terminal
+
+rails g model Usuario nome:string perfil:integer status:integer
+
+rails g model Grupo nome:string status:integer
+
+rails g model Estoque tipo:integer descricao:string codigo:string unidade:string perecivel:boolean estoque_minimo:decimal estoque_maximo:decimal estoque_reposicao:decimal estoque_saldo:decimal custo_medio:decimal custo_total:decimal conta_contabil:string localizacao:string status:integer grupo:references
+
+rails g model Entrada data:date documento:string numero:string quantidade:decimal preco_unitario:decimal preco_total:decimal observacoes:text estoque:references
+
+rails g model Requisicao tipo:integer data:date numero:string setor:integer quantidade:decimal custo_medio:decimal custo_total:decimal observacoes:text estoque:references
